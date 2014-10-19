@@ -1,0 +1,149 @@
+{
+    "express": {
+        "license": "MIT"
+    },
+    "debug": {
+        "license": "MIT"
+    },
+    "formidable": {
+        "license": "https://github.com/felixge/node-formidable/blob/master/LICENSE"
+    },
+    "qs": {
+        "license": "MIT"
+    },
+    "send": {
+        "license": "MIT"
+    },
+    "boom": {
+        "homepage": "https://github.com/spumko/boom",
+        "description": "HTTP friendly error objects"
+    },
+    "uuid": {
+        "license": "MIT"
+    },
+    "formatio": {
+        "license": "BSD https://github.com/busterjs/formatio/blob/master/LICENSE"
+    },
+    "ansi": {
+        "license": "MIT"
+    },
+    "oauth-sign": {
+        "license": "Apache 2.0 https://github.com/mikeal/oauth-sign/blob/master/LICENSE"
+    },
+    "expect.js": {
+        "license": "MIT"
+    },
+    "ms": {
+        "license": "MIT"
+    },
+    "css": {
+        "license": "MIT https://github.com/reworkcss/css/blob/master/LICENSE"
+    },
+    "dateformat": {
+        "license": "MIT https://github.com/felixge/node-dateformat/blob/master/LICENSE"
+    },
+    "css-stringify": {
+        "license": "MIT https://github.com/reworkcss/css-stringify/blob/master/LICENSE"
+    },
+    "path-to-regexp": {
+        "license": "MIT"
+    },
+    "bindings": {
+        "license": "MIT"
+    },
+    "tunnel-agent": {
+        "license": "Apache 2.0 https://github.com/mikeal/tunnel-agent/blob/master/LICENSE"
+    },
+    "uglify-js": {
+        "license": "BSD https://github.com/mishoo/UglifyJS2/blob/master/LICENSE"
+    },
+    "growl": {
+        "license": "MIT https://www.npmjs.org/package/growl",
+        "homepage": "https://www.npmjs.org/package/growl"
+    },
+    "domhandler": {
+        "license": "https://github.com/fb55/domhandler/blob/master/LICENSE"
+    },
+    "assert-plus": {
+        "license": "https://github.com/mcavage/node-assert-plus.git"
+    },
+    "ctype": {
+        "license": "VAROUS https://github.com/rmustacc/node-ctype/blob/master/LICENSE"
+    },
+    "commander": {
+        "license": "MIT"
+    },
+    "domelementtype": {
+        "license": "https://github.com/fb55/domelementtype/blob/master/LICENSE"
+    },
+    "propagate": {
+        "license": "https://github.com/pgte/propagate"
+    },
+    "buffer-crc32": {
+        "license": "https://github.com/brianloveswords/buffer-crc32/blob/master/LICENSE"
+    },
+    "shelljs": {
+        "license": "New BSD https://github.com/arturadib/shelljs/blob/master/LICENSE"
+    },
+    "istanbul": {
+        "license": "Yahoo! https://github.com/gotwarlost/istanbul/blob/master/LICENSE"
+    },
+    "delayed-stream": {
+        "license": "https://github.com/felixge/node-delayed-stream/blob/master/License"
+    },
+    "cookie": {
+        "license": "MIT https://github.com/defunctzombie/node-cookie/blob/master/LICENSE"
+    },
+    "escape-html": {
+        "license": "MIT"
+    },
+    "colors": {
+        "license": "https://github.com/Marak/colors.js/blob/master/MIT-LICENSE.txt"
+    },
+    "forever-agent": {
+        "license": "https://github.com/mikeal/forever-agent/blob/master/LICENSE"
+    },
+    "mocha": {
+        "license": "https://github.com/visionmedia/mocha/blob/master/LICENSE"
+    },
+    "node-uuid": {
+        "license": "MIT https://github.com/broofa/node-uuid/blob/master/LICENSE.md"
+    },
+    "http-signature": {
+        "license": "https://github.com/joyent/node-http-signature/blob/master/LICENSE"
+    },
+    "cookie-signature": {
+        "license": "https://github.com/visionmedia/node-cookie-signature"
+    },
+    "asn1": {
+        "license": "https://github.com/mcavage/node-asn1/blob/master/LICENSE"
+    },
+    "grunt-develop": {
+        "license": "MIT",
+        "homepage": "https://www.npmjs.org/package/grunt-develop"
+    },
+    "mime": {
+        "license": "https://github.com/broofa/node-mime/blob/master/LICENSE"
+    },
+    "aws-sign2": {
+        "license": "Apache 2.0 https://github.com/mikeal/aws-sign/blob/master/LICENSE"
+    },
+    "which": {
+        "license": "https://github.com/isaacs/node-which/blob/master/LICENSE"
+    },
+    "combined-stream": {
+        "license": "https://github.com/felixge/node-combined-stream/blob/master/License"
+    },
+    "domutils": {
+        "license": "https://github.com/fb55/domutils/blob/master/LICENSE"
+    },
+    "samsam": {
+        "license": "BSD https://github.com/busterjs/samsam/blob/master/LICENSE"
+    },
+    "noptify": {
+        "license": "https://github.com/mklabs/noptify/blob/master/LICENSE-MIT"
+    },
+    "node-rest-client": {
+        "license": "https://github.com/aacerox/node-rest-client/blob/master/LICENSE"
+    }
+}
